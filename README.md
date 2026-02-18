@@ -1,5 +1,4 @@
-# Syntecxhub_Statistical-plots-distribution-analysis
-This project analyzes the distribution of total bill amounts using histograms, KDE, and boxplots. It identifies outliers, examines data spread, and compares total bills across different days to understand distribution patterns and group-wise variations.
+# Statistical Plots & Distribution Analysis
 
 ## Project Overview
 This project analyzes the distribution of restaurant bills using the Seaborn "tips" dataset. Statistical visualization techniques were applied to understand data distribution, detect outliers, and compare groups.
@@ -23,4 +22,3 @@ The following plots were generated and saved:
 
 ## Conclusion
 The analysis shows variation in total bill amounts across different days and highlights the importance of visualization in understanding distribution, spread, and potential outliers before applying statistical models.
-
